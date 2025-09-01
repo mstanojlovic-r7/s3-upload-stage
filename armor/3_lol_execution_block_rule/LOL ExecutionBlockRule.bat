@@ -1,0 +1,1 @@
+bitsadmin /transfer myDownloadJob /download https://586202317.r.cdnsun.net/wp-content/uploads/2023/03/Minerva-labs-logo-white.svg %userprofile%\desktop\output.svg

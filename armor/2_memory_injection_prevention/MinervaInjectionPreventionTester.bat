@@ -1,0 +1,1 @@
+rundll32.exe Bla.dll SelfInject

